@@ -1,3 +1,3 @@
 export const Reimbursement = () => {
-  return <div>Reimbursement</div>;
+  return <div className="mt-10 italic text-white text-center text-4xl"> No data to show</div>;
 };
